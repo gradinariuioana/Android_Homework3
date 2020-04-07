@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="btn_time">Pick time</string>
+    <string name="btn_date">Pick date</string>
+    <string name="btn_alarm">Create alarm</string>
+    <string name="txtv_time">Selected time</string>
+    <string name="txtv_date">Selected date</string>
+</resources>
